@@ -1,0 +1,34 @@
+{
+  "name": "dynamic-data-table-angularjs",
+  "version": "1.0.0",
+  "description": "Dynamic Data Table - AngularJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allistertr/dynamic-data-table-angularjs.git"
+  },
+  "keywords": [
+    "dynamic",
+    "data",
+    "table",
+    "angularjs"
+  ],
+  "author": "Allister Terhorst Ramos <allistertr@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allistertr/dynamic-data-table-angularjs/issues"
+  },
+  "homepage": "https://github.com/allistertr/dynamic-data-table-angularjs#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-angular-embed-templates": "^2.3.0",
+    "gulp-babel": "^7.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  }
+}
